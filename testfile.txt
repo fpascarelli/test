@@ -2,5 +2,4 @@ red
 blue
 yellow
 purple
-
 pink
