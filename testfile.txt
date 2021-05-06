@@ -4,3 +4,4 @@ yellow
 purple
 pink
 gold
+orange
